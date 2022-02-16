@@ -1,4 +1,13 @@
-### Hi there 👋
+# Здравствуй! 👋
+### Меня зовут Евгений, и я фронтенд-разработчик
+
+**Мой технологический стэк:**
+* HTML/CSS
+* JavaScript
+* PHP
+* Vue.js
+
+📫 Связаться со мной: [telegram](https://t.me/eborunov)
 
 <!--
 **Jenium/Jenium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
