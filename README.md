@@ -5,7 +5,9 @@
 * HTML/CSS
 * JavaScript
 * PHP
-* Vue.js
+* ReactJS
+* Redux
+* Tailwind
 
 📫 Связаться со мной: [telegram](https://t.me/eborunov)
 
