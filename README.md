@@ -4,10 +4,10 @@
 **Мой технологический стэк:**
 * HTML/CSS
 * JavaScript
-* PHP
 * ReactJS
 * Redux
 * Tailwind
+* PHP
 
 📫 Связаться со мной: [telegram](https://t.me/eborunov)
 
